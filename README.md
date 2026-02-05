@@ -5,11 +5,11 @@ Dashboard Power BI untuk menganalisis penjualan KFC berdasarkan:
 - Marketing Squad
 - Bulan & Tahun
 
-# Tools
+## Tools
 - Power BI
 - Microsoft Excel
 
-# Dataset
+## Dataset
 Dataset berisi kolom:
 - branch id
 - country
